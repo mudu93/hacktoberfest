@@ -53,6 +53,11 @@
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
+#### Name: [mudu sugal](https://github.com/mudu93)
+- place: Mudu sugal, Turkey
+- Bio: software engineer
+- Github: [mudu sugal](https://github.com/mudu93)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
